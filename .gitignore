@@ -1,0 +1,10 @@
+# Compiled Prolog files
+*.qlf
+*.po
+
+# Editor and OS files
+*~
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/
